@@ -1,0 +1,5 @@
+.venv/
+npz_datasets/
+raw_data/
+results/
+.idea/
